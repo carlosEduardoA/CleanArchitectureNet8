@@ -1,5 +1,5 @@
-using CleaArchitecture.Domain.Abstractions;
+using CleanArchitecture.Domain.Abstractions;
 
-namespace CleaArchitecture.Domain.Alquileres.Events;
+namespace CleanArchitecture.Domain.Alquileres.Events;
 
 public sealed record AlquilerCanceladoDomainEvent(Guid AlquilerId) : IDomainEvent;

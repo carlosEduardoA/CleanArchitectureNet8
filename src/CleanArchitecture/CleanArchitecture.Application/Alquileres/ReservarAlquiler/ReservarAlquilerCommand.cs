@@ -1,4 +1,4 @@
-﻿using CleaArchitecture.Application.Abstractions.Messaging;
+﻿using CleanArchitecture.Application.Abstractions.Messaging;
 
 namespace CleanArchitecture.Application.Alquileres.ReservarAlquiler
 {

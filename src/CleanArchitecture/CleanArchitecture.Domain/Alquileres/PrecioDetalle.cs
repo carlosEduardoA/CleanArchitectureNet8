@@ -1,6 +1,6 @@
-using CleaArchitecture.Domain.Shared;
+using CleanArchitecture.Domain.Shared;
 
-namespace CleaArchitecture.Domain.Alquileres;
+namespace CleanArchitecture.Domain.Alquileres;
 
 public record PrecioDetalle(
     Moneda PrecioPorPeriodo,

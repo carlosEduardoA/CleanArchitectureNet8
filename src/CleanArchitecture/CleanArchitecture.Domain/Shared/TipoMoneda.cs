@@ -1,4 +1,4 @@
-namespace CleaArchitecture.Domain.Shared;
+namespace CleanArchitecture.Domain.Shared;
 
 public record TipoMoneda
 {

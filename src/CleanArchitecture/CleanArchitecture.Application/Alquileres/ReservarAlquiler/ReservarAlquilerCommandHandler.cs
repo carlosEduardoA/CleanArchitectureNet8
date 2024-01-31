@@ -1,11 +1,9 @@
-﻿using CleaArchitecture.Application.Abstractions.Messaging;
-using CleaArchitecture.Domain.Abstractions;
-using CleaArchitecture.Domain.Alquileres;
-using CleaArchitecture.Domain.Users;
-using CleaArchitecture.Domain.Vehiculos;
-using CleanArchitecture.Application.Abstractions.Clock;
+﻿using CleanArchitecture.Application.Abstractions.Messaging;
+using CleanArchitecture.Domain.Abstractions;
+using CleanArchitecture.Domain.Alquileres;
 using CleanArchitecture.Domain.Users;
 using CleanArchitecture.Domain.Vehiculos;
+using CleanArchitecture.Application.Abstractions.Clock;
 
 namespace CleanArchitecture.Application.Alquileres.ReservarAlquiler
 {

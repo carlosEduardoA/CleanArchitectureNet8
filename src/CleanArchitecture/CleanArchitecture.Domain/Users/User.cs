@@ -1,7 +1,7 @@
-using CleaArchitecture.Domain.Abstractions;
-using CleaArchitecture.Domain.Users.Events;
+using CleanArchitecture.Domain.Abstractions;
+using CleanArchitecture.Domain.Users.Events;
 
-namespace CleaArchitecture.Domain.Users;
+namespace CleanArchitecture.Domain.Users;
 
 public sealed class User : Entity
 {

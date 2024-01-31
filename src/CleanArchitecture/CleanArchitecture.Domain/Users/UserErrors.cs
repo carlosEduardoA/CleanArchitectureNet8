@@ -1,5 +1,5 @@
 ﻿
-using CleaArchitecture.Domain.Abstractions;
+using CleanArchitecture.Domain.Abstractions;
 
 namespace CleanArchitecture.Domain.Users
 {

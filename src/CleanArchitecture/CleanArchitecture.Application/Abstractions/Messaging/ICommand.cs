@@ -1,7 +1,7 @@
-using CleaArchitecture.Domain.Abstractions;
+using CleanArchitecture.Domain.Abstractions;
 using MediatR;
 
-namespace CleaArchitecture.Application.Abstractions.Messaging;
+namespace CleanArchitecture.Application.Abstractions.Messaging;
 
 public interface ICommand : IRequest<Result>, IBaseCommand
 {

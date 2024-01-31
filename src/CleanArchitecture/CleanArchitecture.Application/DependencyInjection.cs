@@ -1,7 +1,7 @@
-using CleaArchitecture.Domain.Alquileres;
+using CleanArchitecture.Domain.Alquileres;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace CleaArchitecture.Application;
+namespace CleanArchitecture.Application;
 
 public static class DependencyInjection
 {

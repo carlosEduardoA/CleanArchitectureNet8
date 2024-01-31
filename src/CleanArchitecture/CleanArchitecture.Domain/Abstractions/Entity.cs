@@ -1,4 +1,4 @@
-namespace CleaArchitecture.Domain.Abstractions;
+namespace CleanArchitecture.Domain.Abstractions;
 
 public abstract class Entity
 {

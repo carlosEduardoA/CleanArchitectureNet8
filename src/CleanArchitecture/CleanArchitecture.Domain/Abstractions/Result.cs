@@ -1,6 +1,6 @@
 using System.Diagnostics.CodeAnalysis;
 
-namespace CleaArchitecture.Domain.Abstractions;
+namespace CleanArchitecture.Domain.Abstractions;
 
 public class Result
 {
