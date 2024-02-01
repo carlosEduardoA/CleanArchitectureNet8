@@ -1,12 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using CleanArchitecture.Domain.Abstractions;
+using Microsoft.EntityFrameworkCore;
 
 namespace CleanArchitecture.Infrastructure
 {
-    internal class ApplicationDbContext
+    public sealed class ApplicationDbContext : DbContext, IUnitOfWork
     {
+        public ApplicationDbContext(DbContextOptions options) : base(options) 
+        {
+
+        }
     }
 }
