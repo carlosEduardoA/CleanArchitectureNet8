@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "I4wRtup+3X+Z9peoK2sPLpkCQBVCPTrYPBqKaaxjaaKL3GjiZBEDjO18kl8f/L0Uiem2cD6Ho1FKHKymbollUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EDUARDO\\OneDrive\\EDUARDO\\PERSONAL\\Courses\\CleanArchitectureNet8\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EDUARDO\\.nuget\\packages\\dapper\\2.1.15\\dapper.2.1.15.nupkg.sha512",
+    "C:\\Users\\EDUARDO\\.nuget\\packages\\fluentvalidation\\11.8.0\\fluentvalidation.11.8.0.nupkg.sha512",
+    "C:\\Users\\EDUARDO\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.8.0\\fluentvalidation.dependencyinjectionextensions.11.8.0.nupkg.sha512",
+    "C:\\Users\\EDUARDO\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\EDUARDO\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\EDUARDO\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\EDUARDO\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\EDUARDO\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\EDUARDO\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
